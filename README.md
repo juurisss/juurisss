@@ -9,9 +9,7 @@
   <strong><a href="https://twitter.com/juurisss">Twitter</a></strong> 
  •
   <strong><a href="https://www.reddit.com/u/Jur1ss">Reddit</a></strong> 
- •
-
-  <strong><a href="https://discord.com/invite/m3TXhe9xTn">Discord</a></strong> 
+ •  <strong><a href="https://discord.com/invite/m3TXhe9xTn">Discord</a></strong> 
  •
   <strong><a href="https://juriss.xyz/">Website</a></strong> 
  •  <strong><a href="https://Jur1ss.xyz/">Alternative Link</a></strong> 
