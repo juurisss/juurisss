@@ -16,12 +16,12 @@ I enjoy building projects to learn how things work, particularly projects involv
 
 * **Languages:** JavaScript / Node.js, Java, Python
 * **Web:** HTML, CSS, Express.js
-* **Hardware:** Raspberry Pi, ESP32, robotics platforms
+* **Hardware:** Raspberry Pi, ESP32, ESP8266, EV3, SPIKE Prime
 * **Interests:** Robotics, IoT, computer vision, automation
 
 ## Projects
 
-Projects posted here are primarily experiments and hobby projects. I'll be adding newer projects as I continue building them.
+Projects posted here include experiments, hobby projects, and older projects that I have yet to publish. I'll continue adding projects as I build and document them.
 
 ## Contact
 
