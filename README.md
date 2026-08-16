@@ -34,7 +34,7 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 ### Hardware & Communication
 
-`Raspberry Pi` `ESP32` `ESP8266` `LEGO EV3` `LEGO SPIKE Prime` `GSM Modules` `Bluetooth`
+`Raspberry Pi` `ESP32` `ESP8266` `Arduino` `LEGO EV3` `LEGO SPIKE Prime` `GSM Modules` `Bluetooth`
 
 ---
 
