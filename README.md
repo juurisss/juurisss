@@ -22,7 +22,11 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 ### Software & Frameworks
 
-`HTML` `CSS` `Node.js` `Express.js` `FastAPI` `PostgreSQL` `Pybricks` `Bleak`
+`HTML` `CSS` `Node.js` `Express.js` `FastAPI` `Pybricks` `Bleak`
+
+### Databases & Backend
+
+`PostgreSQL` `Supabase`
 
 ### Deployment & Infrastructure
 
@@ -38,7 +42,7 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 My repositories contain **research projects, experiments, and hobby projects**.
 
-I plan to gradually publish and document older projects that have not yet been released (e.g. Project RIVER), alongside the projects I continue to build.
+I plan to gradually publish and document older projects that have not yet been released (e.g. **Project R.I.V.E.R.**), alongside the projects I continue to build.
 
 ---
 
