@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juris</h1>
 
 <p align="center">
-  Student · Robotics · Programming · IoT
+  Student · Robotics · Programming · IoT · Computer Vision · Embedded Systems
 </p>
 
 ---
@@ -11,12 +11,6 @@
 I'm a student interested in **robotics, programming, and IoT**.
 
 I enjoy building projects that combine **software, hardware, automation, computer vision, and data** to solve practical problems and explore how different technologies work together.
-
----
-
-## Research & Engineering
-
-**Robotics** · **Computer Vision** · **IoT** · **Embedded Systems** · **Automation** · **Intelligent Machines**
 
 ---
 
