@@ -26,7 +26,7 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 ### Databases & Infrastructure
 
-`PostgreSQL` `Supabase` `Render` `Netlify` `Cloudflare`
+`PostgreSQL` `Supabase` `Docker` `OVHcloud` `Ubuntu` `Cloudflare` `Render` `Netlify` `DNS` `Domain Management`
 
 ### Hardware & Communication
 
