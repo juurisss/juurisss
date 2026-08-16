@@ -16,7 +16,7 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 ## Tech Stack
 
-### Programming
+### Languages
 
 `Python` `Java` `Kotlin` `JavaScript` `TypeScript`
 
