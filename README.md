@@ -14,23 +14,29 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 ---
 
+## Research & Engineering
+
+**Robotics** · **Computer Vision** · **IoT** · **Embedded Systems** · **Automation** · **Intelligent Machines**
+
+---
+
 ## Tech Stack
 
 ### Languages
 
 `Python` `Java` `Kotlin` `JavaScript` `TypeScript`
 
-### Software
+### Software & Frameworks
 
-`HTML` `CSS` `Node.js` `Express.js` `PostgreSQL` `Pybricks` `Bleak`
+`HTML` `CSS` `Node.js` `Express.js` `FastAPI` `PostgreSQL` `Pybricks` `Bleak`
+
+### Deployment & Infrastructure
+
+`Render` `Netlify` `Cloudflare`
 
 ### Hardware & Communication
 
 `Raspberry Pi` `ESP32` `ESP8266` `LEGO EV3` `LEGO SPIKE Prime` `GSM Modules` `Bluetooth`
-
-### Interests
-
-`Robotics` `IoT` `Computer Vision` `Automation`
 
 ---
 
@@ -38,7 +44,7 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 My repositories contain **research projects, experiments, and hobby projects**.
 
-I plan to gradually publish and document older projects that have not yet been released, such as **Project R.I.V.E.R.**, alongside the projects I continue to build.
+I plan to gradually publish and document older projects that have not yet been released (e.g. Project RIVER), alongside the projects I continue to build.
 
 ---
 
