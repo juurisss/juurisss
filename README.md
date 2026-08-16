@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juris</h1>
 
 <p align="center">
-  Student • Robotics • Programming • IoT
+  Student · Robotics · Programming · IoT
 </p>
 
 ---
@@ -10,21 +10,38 @@
 
 I'm a student interested in **robotics, programming, and IoT**.
 
-I enjoy building projects to learn how things work, particularly projects involving software, hardware, automation, and data.
+I enjoy building projects that combine **software, hardware, automation, computer vision, and data** to solve practical problems and explore how different technologies work together.
 
-### Tools & Technologies
+---
 
-* **Languages:** JavaScript / Node.js, Java, Python
-* **Web:** HTML, CSS, Express.js
-* **Hardware:** Raspberry Pi, ESP32, ESP8266, EV3, SPIKE Prime
-* **Interests:** Robotics, IoT, computer vision, automation
+## Tech Stack
+
+### Languages
+
+`Python` `Java` `Kotlin` `JavaScript` `TypeScript`
+
+### Software
+
+`HTML` `CSS` `Node.js` `Express.js` `PostgreSQL` `Pybricks` `Bleak`
+
+### Hardware & Communication
+
+`Raspberry Pi` `ESP32` `ESP8266` `LEGO EV3` `LEGO SPIKE Prime` `GSM Modules` `Bluetooth`
+
+### Interests
+
+`Robotics` `IoT` `Computer Vision` `Automation`
+
+---
 
 ## Projects
 
-Projects posted here include experiments, hobby projects, and older projects that I have yet to publish. I'll continue adding projects as I build and document them.
+My repositories contain **research projects, experiments, and hobby projects**.
+
+I plan to gradually publish and document older projects that have not yet been released, such as **Project R.I.V.E.R.**, alongside the projects I continue to build.
+
+---
 
 ## Contact
-
-If you'd like to reach out, you can contact me through Discord:
 
 **Discord:** `juurisss`
