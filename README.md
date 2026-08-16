@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a student interested in **robotics, programming, and IoT**.
+I'm a student interested in **robotics, programming, IoT, computer vision, and embedded systems**.
 
 I enjoy building projects that combine **software, hardware, automation, computer vision, and data** to solve practical problems and explore how different technologies work together.
 
@@ -16,7 +16,7 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 ## Tech Stack
 
-### Languages
+### Programming
 
 `Python` `Java` `Kotlin` `JavaScript` `TypeScript`
 
@@ -24,13 +24,9 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 `HTML` `CSS` `Node.js` `Express.js` `FastAPI` `Pybricks` `Bleak`
 
-### Databases & Backend
+### Databases & Infrastructure
 
-`PostgreSQL` `Supabase`
-
-### Deployment & Infrastructure
-
-`Render` `Netlify` `Cloudflare`
+`PostgreSQL` `Supabase` `Render` `Netlify` `Cloudflare`
 
 ### Hardware & Communication
 
@@ -42,7 +38,9 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 My repositories contain **research projects, experiments, and hobby projects**.
 
-I plan to gradually publish and document older projects that have not yet been released (e.g. **Project R.I.V.E.R.**), alongside the projects I continue to build.
+Some projects are actively maintained, while others are archived or no longer functional. Older projects are kept public as a record of what I built and learned along the way.
+
+I also plan to gradually publish and document older projects that have not yet been released.
 
 ---
 
