@@ -1,4 +1,4 @@
-# Hi, I'm Juris
+<h1 align="center">Hi, I'm Juris</h1>
 
 <p align="center">
   Student · Robotics · Programming · IoT · Computer Vision · Embedded Systems
