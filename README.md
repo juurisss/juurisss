@@ -18,19 +18,19 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 ### Languages
 
-[Python](https://www.python.org/) · [Java](https://www.java.com/) · [Kotlin](https://kotlinlang.org/) · [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [TypeScript](https://www.typescriptlang.org/)
+`Python` `Java` `Kotlin` `JavaScript` `TypeScript`
 
 ### Software & Frameworks
 
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) · [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) · [Node.js](https://nodejs.org/) · [Express.js](https://expressjs.com/) · [FastAPI](https://fastapi.tiangolo.com/) · [Pybricks](https://pybricks.com/) · [Bleak](https://bleak.readthedocs.io/)
+`HTML` `CSS` `Node.js` `Express.js` `FastAPI` `Pybricks` `Bleak`
 
 ### Databases & Infrastructure
 
-[PostgreSQL](https://www.postgresql.org/) · [Firebase](https://firebase.google.com/) · [Docker](https://www.docker.com/) · [OVHcloud](https://www.ovhcloud.com/) · [Ubuntu](https://ubuntu.com/) · [Cloudflare](https://www.cloudflare.com/) · [Render](https://render.com/) · [Netlify](https://www.netlify.com/) · DNS · Domain Management
+`PostgreSQL` `Firebase` `Docker` `OVHcloud` `Ubuntu` `Cloudflare` `Render` `Netlify` `DNS` `Domain Management`
 
 ### Hardware & Communication
 
-[Raspberry Pi](https://www.raspberrypi.com/) · [ESP32](https://www.espressif.com/en/products/socs/esp32) · [ESP8266](https://www.espressif.com/en/products/socs/esp8266) · [Arduino](https://www.arduino.cc/) · [LEGO EV3](https://www.lego.com/en-us/themes/mindstorms/about-ev3) · [LEGO SPIKE Prime](https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678/) · GSM Modules · Bluetooth
+`Raspberry Pi` `ESP32` `ESP8266` `Arduino` `LEGO EV3` `LEGO SPIKE Prime` `GSM Modules` `Bluetooth`
 
 ---
 
