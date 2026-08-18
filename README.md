@@ -48,4 +48,4 @@ I also plan to gradually publish and document older projects that have not yet b
 
 **Discord:** `juurisss`
 
-**Website:** [juriss.site](https://www.juriss.site/)
+**Website:** [juriss.site](https://juriss.site/)
