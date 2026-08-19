@@ -10,7 +10,11 @@
 
 I'm a student interested in **robotics, programming, IoT, computer vision, and embedded systems**.
 
-I enjoy building projects that combine **software, hardware, automation, computer vision, and data** to solve practical problems and explore how different technologies work together.
+---
+
+## Currently Learning
+
+`C++` `OpenCV` `Control Systems` `Computer Vision`
 
 ---
 
@@ -18,15 +22,25 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 ### Languages
 
-`Python` `Java` `Kotlin` `JavaScript` `TypeScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts" />
+</p>
 
 ### Software & Frameworks
 
-`HTML` `CSS` `Node.js` `Express.js` `FastAPI` `Pybricks` `Bleak`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,fastapi" />
+</p>
+
+`Pybricks` `Bleak`
 
 ### Databases & Infrastructure
 
-`PostgreSQL` `Firebase` `Docker` `OVHcloud` `Ubuntu` `Cloudflare` `Render` `Netlify` `DNS` `Domain Management`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,firebase,docker,ubuntu,cloudflare,netlify" />
+</p>
+
+`OVHcloud` `Render` `DNS` `Domain Management`
 
 ### Hardware & Communication
 
@@ -38,9 +52,7 @@ I enjoy building projects that combine **software, hardware, automation, compute
 
 My repositories contain **research projects, experiments, and hobby projects**.
 
-Some projects are actively maintained, while others are archived or no longer functional. Older projects are kept public as a record of what I built and learned along the way.
-
-I also plan to gradually publish and document older projects that have not yet been released.
+Some are actively maintained, while others are archived or no longer functional. Older projects remain public as a record of what I built and learned.
 
 ---
 
