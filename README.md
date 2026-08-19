@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juris</h1>
 
 <p align="center">
-  Student · Robotics · Programming · IoT
+  Student · Robotics · Programming
 </p>
 
 <p align="center">
