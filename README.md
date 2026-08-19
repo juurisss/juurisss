@@ -55,8 +55,7 @@ I'm a student interested in **robotics, programming, IoT, computer vision, and e
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white) 
 `LEGO EV3` `LEGO SPIKE Prime` `GSM Modules`
 
 ---
