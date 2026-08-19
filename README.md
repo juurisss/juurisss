@@ -16,8 +16,7 @@ I'm a student interested in **robotics, programming, IoT, computer vision, and e
 
 `C++` `OpenCV` `Control Systems` `Computer Vision`
 
----
-## Tech Stack
+---## Tech Stack
 
 ### Languages
 
@@ -26,6 +25,9 @@ I'm a student interested in **robotics, programming, IoT, computer vision, and e
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![AutoHotKey](https://img.shields.io/badge/AutoHotKey-334455?style=flat-square&logo=autohotkey&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Software & Frameworks
 
