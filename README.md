@@ -1,3 +1,23 @@
+<h1 align="center">Hi, I'm Juris</h1>
+
+<p align="center">
+  Student · Robotics · Programming · IoT · Computer Vision · Embedded Systems
+</p>
+
+---
+
+## About Me
+
+I'm a student interested in **robotics, programming, IoT, computer vision, and embedded systems**.
+
+---
+
+## Currently Learning
+
+`C++` `OpenCV` `Control Systems` `Computer Vision`
+
+---
+
 ## Tech Stack
 
 ### Languages
@@ -27,10 +47,30 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square)
+`Render` `DNS` `Domain Management`
 
 ### Hardware & Communication
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+
+`LEGO EV3` `LEGO SPIKE Prime` `GSM Modules`
+
+---
+
+## Projects
+
+My repositories contain **research projects, experiments, and hobby projects**.
+
+Some are actively maintained, while others are archived or no longer functional. Older projects remain public as a record of what I built and learned.
+
+---
+
+## Contact
+
+**Discord:** `juurisss`
+
+**Website:** [juriss.site](https://juriss.site/)
