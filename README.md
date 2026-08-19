@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 <h1 align="center">Hi, I'm Juris</h1>
 
 <p align="center">
