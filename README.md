@@ -12,8 +12,6 @@
 
 <p align="center">
   <a href="https://juriss.site/">Website</a>
-  ·
-  <a href="https://github.com/juurisss">GitHub</a>
 </p>
 
 ---
