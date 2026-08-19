@@ -17,7 +17,6 @@ I'm a student interested in **robotics, programming, IoT, computer vision, and e
 `C++` `OpenCV` `Control Systems` `Computer Vision`
 
 ---
-
 ## Tech Stack
 
 ### Languages
@@ -35,10 +34,10 @@ I'm a student interested in **robotics, programming, IoT, computer vision, and e
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pybricks](https://img.shields.io/badge/Pybricks-2D2D2D?style=flat-square)
-![Bleak](https://img.shields.io/badge/Bleak-2D2D2D?style=flat-square)
+![Pybricks](https://img.shields.io/badge/Pybricks-555555?style=flat-square)
+![Bleak](https://img.shields.io/badge/Bleak-555555?style=flat-square)
 
-### Databases & Infrastructure
+### Backend & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -47,7 +46,9 @@ I'm a student interested in **robotics, programming, IoT, computer vision, and e
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square)
-`Render` `DNS` `Domain Management`
+![Render](https://img.shields.io/badge/Render-555555?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-555555?style=flat-square)
+![Domain Management](https://img.shields.io/badge/Domain%20Management-555555?style=flat-square)
 
 ### Hardware & Communication
 
@@ -55,9 +56,10 @@ I'm a student interested in **robotics, programming, IoT, computer vision, and e
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white) 
-`LEGO EV3` `LEGO SPIKE Prime` `GSM Modules`
-
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![LEGO EV3](https://img.shields.io/badge/LEGO%20EV3-555555?style=flat-square)
+![LEGO SPIKE Prime](https://img.shields.io/badge/LEGO%20SPIKE%20Prime-555555?style=flat-square)
+![GSM Modules](https://img.shields.io/badge/GSM%20Modules-555555?style=flat-square)
 ---
 
 ## Projects
