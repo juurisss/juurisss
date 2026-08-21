@@ -85,6 +85,6 @@ My repositories are an **archive of projects, research, experiments, and systems
 
 ## Links
 
-**Website:** [juriss.site](https://juriss.dev/)
+**Website:** [juriss.dev](https://juriss.dev/)
 
 **Discord:** `juurisss`
