@@ -18,7 +18,7 @@
 
 I'm a student interested in **robotics, programming, IoT, computer vision, and embedded systems**.
 
-I enjoy building projects that combine **software, hardware, and real-world systems**.
+I enjoy building projects that include **software, hardware, and real-world systems**.
 
 ---
 
