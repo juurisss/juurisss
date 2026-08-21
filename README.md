@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://juriss.site/">Website</a>
+  <a href="https://juriss.dev/">Website</a>
 </p>
 
 ---
@@ -85,6 +85,6 @@ My repositories are an **archive of projects, research, experiments, and systems
 
 ## Links
 
-**Website:** [juriss.site](https://juriss.site/)
+**Website:** [juriss.site](https://juriss.dev/)
 
 **Discord:** `juurisss`
